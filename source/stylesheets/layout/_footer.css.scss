@@ -1,0 +1,31 @@
+/* Footer design */
+.footer {
+  background: #333333;
+  padding: 50px 0;
+  color: #CCCCCC;
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-inline {
+  letter-spacing: 10px;
+}
+
+.social-network {
+  padding-left: 50px;
+}
+
+.credits {
+  text-align: right;
+  margin-right: 50px;
+}
+
+.footer a {
+  text-decoration: none;
+  font-size: 30px;
+  color: #CCCCCC;
+}
+
+.footer a:hover {
+  color: red;
+}
